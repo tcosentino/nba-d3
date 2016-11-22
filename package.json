@@ -29,6 +29,13 @@
     "gulp-eslint": "^3.0.1",
     "gulp-mocha": "^3.0.1",
     "mocha": "^3.1.2",
+    "sinon": "^1.17.6",
+    "sinon-chai": "^2.8.0",
     "webpack-stream": "^3.2.0"
+  },
+  "dependencies": {
+    "csv": "^1.1.0",
+    "csv-parse": "^1.1.7",
+    "underscore": "^1.8.3"
   }
 }
